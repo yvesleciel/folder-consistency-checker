@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: consistency
+
+server:
+  port: 8081
+
+mock:
+  api:
+    base-url: http://localhost:8080
+    timeout-seconds: 10
