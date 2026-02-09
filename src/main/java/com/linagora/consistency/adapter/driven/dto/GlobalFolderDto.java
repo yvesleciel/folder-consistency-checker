@@ -1,4 +1,4 @@
-package com.linagora.consistency.adapter.driven.rest.dto;
+package com.linagora.consistency.adapter.driven.dto;
 
 /**
  * DTO for global folder from REST API.

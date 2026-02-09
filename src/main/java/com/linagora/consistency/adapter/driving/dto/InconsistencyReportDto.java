@@ -1,4 +1,4 @@
-package com.linagora.consistency.adapter.driving.rest.dto;
+package com.linagora.consistency.adapter.driving.dto;
 
 import java.util.List;
 

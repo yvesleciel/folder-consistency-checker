@@ -1,7 +1,7 @@
-package com.linagora.consistency.adapter.driven.rest;
+package com.linagora.consistency.adapter.driven;
 
-import com.linagora.consistency.adapter.driven.rest.dto.GlobalFolderDto;
-import com.linagora.consistency.adapter.driven.rest.dto.UserFolderDto;
+import com.linagora.consistency.adapter.driven.dto.GlobalFolderDto;
+import com.linagora.consistency.adapter.driven.dto.UserFolderDto;
 import com.linagora.consistency.domain.model.*;
 import com.linagora.consistency.domain.port.driven.ForRetrievingGlobalFolders;
 import com.linagora.consistency.domain.port.driven.ForRetrievingUserFolders;

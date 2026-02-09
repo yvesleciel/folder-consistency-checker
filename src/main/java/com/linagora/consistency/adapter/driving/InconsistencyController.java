@@ -1,8 +1,8 @@
-package com.linagora.consistency.adapter.driving.rest;
+package com.linagora.consistency.adapter.driving;
 
-import com.linagora.consistency.adapter.driving.rest.dto.InconsistencyDto;
-import com.linagora.consistency.adapter.driving.rest.dto.InconsistencyReportDto;
-import com.linagora.consistency.adapter.driving.rest.dto.InconsistencySummaryDto;
+import com.linagora.consistency.adapter.driving.dto.InconsistencyDto;
+import com.linagora.consistency.adapter.driving.dto.InconsistencyReportDto;
+import com.linagora.consistency.adapter.driving.dto.InconsistencySummaryDto;
 import com.linagora.consistency.domain.model.Inconsistency;
 import com.linagora.consistency.domain.model.InconsistencyReport;
 import com.linagora.consistency.domain.model.InconsistencyType;

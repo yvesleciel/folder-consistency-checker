@@ -1,4 +1,4 @@
-package com.linagora.consistency.adapter.driving.rest.dto;
+package com.linagora.consistency.adapter.driving.dto;
 
 /**
  * DTO for API response representing a single inconsistency.

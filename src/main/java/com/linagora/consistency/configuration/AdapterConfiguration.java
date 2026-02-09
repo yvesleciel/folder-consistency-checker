@@ -1,6 +1,6 @@
 package com.linagora.consistency.configuration;
 
-import com.linagora.consistency.adapter.driven.rest.RestApiAdapter;
+import com.linagora.consistency.adapter.driven.RestApiAdapter;
 import com.linagora.consistency.domain.port.driven.ForRetrievingGlobalFolders;
 import com.linagora.consistency.domain.port.driven.ForRetrievingUserFolders;
 import com.linagora.consistency.domain.port.driven.ForRetrievingUsers;
